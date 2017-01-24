@@ -1,0 +1,91 @@
+Participant results saved at: 11 Jan 2017 4:51:05PM.
+
+
+Gesture: Come Here
+-----------------
+Translation x: 1.37483847141266
+Translation y: 3.1586766242981
+Distance from WAM: 3.4449120220063
+Angle of viewing position: 23.5214573504646
+Viewing angle offset: 2.67853027452156
+-----------------
+Translation x: -2.11904668807983
+Translation y: 2.41864037513733
+Distance from WAM: 3.21561504700214
+Angle of viewing position: -41.2226185929304
+Viewing angle offset: -358.140994464985
+-----------------
+Translation x: -2.7386257648468
+Translation y: 1.147141456604
+Distance from WAM: 2.96917574443519
+Angle of viewing position: -67.2724167397943
+Viewing angle offset: -351.615898660433
+-----------------
+
+
+Gesture: Pay Attention
+-----------------
+Translation x: -0.496388047933578
+Translation y: 3.12592673301697
+Distance from WAM: 3.16509384289336
+Angle of viewing position: -9.02306275870565
+Viewing angle offset: -0.219696954430106
+-----------------
+Translation x: 1.81887865066528
+Translation y: 2.63070440292358
+Distance from WAM: 3.19826909458968
+Angle of viewing position: 34.6601241602472
+Viewing angle offset: -3.69790911686772
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Resume
+-----------------
+Translation x: 2.00306415557861
+Translation y: 2.25525426864624
+Distance from WAM: 3.01636168713418
+Angle of viewing position: 41.6107350433532
+Viewing angle offset: -8.75160121227731
+-----------------
+Translation x: 0.469965636730194
+Translation y: 3.12647891044617
+Distance from WAM: 3.16160371918618
+Angle of viewing position: 8.54857647627362
+Viewing angle offset: -1.20340821685693
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Step Back
+-----------------
+Translation x: -1.66548645496368
+Translation y: 2.71806812286377
+Distance from WAM: 3.18774833576863
+Angle of viewing position: -31.4977348073929
+Viewing angle offset: -359.881765052617
+-----------------
+Translation x: 1.88782513141632
+Translation y: 2.59099435806274
+Distance from WAM: 3.205797169242
+Angle of viewing position: 36.0774661885949
+Viewing angle offset: -8.8375739244575
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Stop
+-----------------
+Translation x: -0.654798984527588
+Translation y: 3.06170201301575
+Distance from WAM: 3.13093930420937
+Angle of viewing position: -12.0718530106005
+Viewing angle offset: -356.750012627467
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------

@@ -1,0 +1,83 @@
+Participant results saved at: 3 Jan 2017 4:53:21PM.
+
+
+Gesture: Come Here
+-----------------
+Translation x: -3.53349733352661
+Translation y: 3.21360874176025
+Distance from WAM: 4.77628355012112
+Angle of viewing position: -47.7144312477729
+Viewing angle offset: -359.045843466263
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Pay Attention
+-----------------
+Translation x: -2.24293351173401
+Translation y: 5.9938907623291
+Distance from WAM: 6.39980290390209
+Angle of viewing position: -20.516013608185
+Viewing angle offset: -358.374266036637
+-----------------
+Translation x: 2.83933305740356
+Translation y: 5.85122013092041
+Distance from WAM: 6.50373655919064
+Angle of viewing position: 25.885206410959
+Viewing angle offset: -2.02647676849966
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Resume
+-----------------
+Translation x: 1.1058177947998
+Translation y: 4.51457118988037
+Distance from WAM: 4.64803033808879
+Angle of viewing position: 13.7632819445806
+Viewing angle offset: -4.33703038526869
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Step Back
+-----------------
+Translation x: -3.1140410900116
+Translation y: 3.72920513153076
+Distance from WAM: 4.85841772836754
+Angle of viewing position: -39.8632832280254
+Viewing angle offset: -359.936139080549
+-----------------
+Translation x: 3.04770350456238
+Translation y: 4.00192213058472
+Distance from WAM: 5.03029595461197
+Angle of viewing position: 37.2914455907603
+Viewing angle offset: -3.01367020588589
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Stop
+-----------------
+Translation x: 2.95616745948792
+Translation y: 2.94401621818542
+Distance from WAM: 4.17206873642729
+Angle of viewing position: 45.1179992019836
+Viewing angle offset: -6.44267079388129
+-----------------
+Translation x: -2.73506164550781
+Translation y: 2.95122361183167
+Distance from WAM: 4.02371507586716
+Angle of viewing position: -42.8229715632325
+Viewing angle offset: -0.255171898178105
+-----------------
+No Marker
+-----------------

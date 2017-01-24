@@ -1,0 +1,67 @@
+Participant results saved at: 17 Jan 2017 2:40:37PM.
+
+
+Gesture: Come Here
+-----------------
+Translation x: -0.637415766716003
+Translation y: 4.12962245941162
+Distance from WAM: 4.17852611777586
+Angle of viewing position: -8.77447674250267
+Viewing angle offset: -357.237125991022
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Pay Attention
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Resume
+-----------------
+Translation x: -0.631505608558655
+Translation y: 4.19474124908447
+Distance from WAM: 4.24201054694726
+Angle of viewing position: -8.56141302239331
+Viewing angle offset: -0.717081184182206
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Step Back
+-----------------
+Translation x: -0.656571984291077
+Translation y: 4.15021514892578
+Distance from WAM: 4.20182966729126
+Angle of viewing position: -8.98979781128266
+Viewing angle offset: -357.761370781116
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
+
+
+Gesture: Stop
+-----------------
+Translation x: -2.05350875854492
+Translation y: 3.77024507522583
+Distance from WAM: 4.29320930641465
+Angle of viewing position: -28.5754457566148
+Viewing angle offset: -354.173203952889
+-----------------
+No Marker
+-----------------
+No Marker
+-----------------
